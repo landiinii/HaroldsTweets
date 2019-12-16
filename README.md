@@ -2,7 +2,7 @@
 A simple machine named Harold who has learned from celebrities' social media captions how best to caption your next post.
 
 # Inspiration
-I was told a story a little while ago of some MIT students who were so tired of having to write out research study papers to be selected and presented at conferences. So they got together and put together a computer a computer word processing program that read comparisons and common phrases from data input to compute a potential official research paper. They submitted to a conference the paper their machine had written for them and got accepted. I wanted to see what I could do with this same line of machine learning scaled down to my level and my time.
+I was told a story a little while ago of some MIT students who were so tired of having to write out research study papers to be selected and presented at conferences. So they got together and put together a computer word processing program that read comparisons and common phrases from data input to compute a potential official research paper. They submitted to a conference the paper their machine had written for them and got accepted. I wanted to see what I could do with this same line of machine learning scaled down to my level and my time.
 
 # What it does
 I call my amateur machine learning Harold. Harold reads data files taken from twitter and other common speech sources and sorts and compiles them into a new unique phrase or quote that someone can use to post on Twitter or caption photos on other social media. These tweets are produce according to user preference of three styles: 1) Trump 2) Jaden Smith and 3) Scriptures.
