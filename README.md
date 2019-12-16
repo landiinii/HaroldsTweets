@@ -12,3 +12,6 @@ I planted input files into a C++ Map with values of a List of strings and corres
 
 # What's next for Harolds Tweets
 Harold has a long way to go, and his tweets are going to be sooo much better in the future. He is currently residing in a linux terminal, but will very soon be moving into a new home, probably starting in a GUI, before moving on to bigger and better domains and apps.
+
+# Implementation
+Harold produces tweets from a command line argument. The input file type that is desires should be passed in as an argument when calling the executable.
